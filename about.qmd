@@ -35,7 +35,7 @@ We may not address each issue right away, but we will use the reproducible examp
 
 Documentation is a high priority for vetiver, and pull requests to correct or improve documentation are welcome.
 
-### Contribute code
+### Contributing to code
 
 If you are a more experienced R or Python programmer, you may have the inclination, interest, and ability to contribute directly to package development.
 Before you submit a pull request to vetiver, always file an issue and confirm the vetiver team agrees with your idea and is happy with your basic proposal.
